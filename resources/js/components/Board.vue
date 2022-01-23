@@ -153,7 +153,7 @@ export default {
   position: relative;
   height: 600px;
   width: 600px;
-  background: #000;
+  background-color: purple;
   margin: 0 auto;
   margin-bottom: 10px;
 }
